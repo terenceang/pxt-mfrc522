@@ -1,0 +1,17 @@
+{
+  "name": "MFRC522",
+  "version": "0.0.2",
+  "description": "RFID Reader",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "README.md",
+    "mfrc522.ts",
+    "shims.d.ts",
+    "enums.d.ts"
+  ],
+  "testFiles": [],
+  "public": true
+}
